@@ -1,3 +1,6 @@
+## Why I Built This
+As a competitve runner who can run +100km a week, I thought this project would be a good way to blend both my technical skills in programming with my passion of distance running. Furthermore, I thought it would be a good way to learn and understand how to take information from a real world map and graph it using path finding algorithms.
+
 # Campus Running Route Generator
 
 A custom, data-driven geospatial routing engine built from scratch in Java. The application parses raw OpenStreetMap (OSM) XML maps, dynamically builds a contiguous topological network graph, and leverages an advanced Dijkstra pathfinding implementation to generate closed-circuit running loops based on a target distance input.
