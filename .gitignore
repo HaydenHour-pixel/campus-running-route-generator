@@ -1,0 +1,16 @@
+# Ignore compiled Java bytecode
+*.class
+bin/
+.gradle/
+build/
+
+# Ignore large raw map data files
+*.osm
+*.xml
+
+# Ignore local run tracking outputs
+*.gpx
+
+# Ignore OS-specific clutter
+.DS_Store
+Thumbs.db
